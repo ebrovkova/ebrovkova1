@@ -1,0 +1,13 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    background: plum;
+    color: purple;
+}
+
+p {
+    background: purple;
+    color: plum;
+}

@@ -1,0 +1,14 @@
+body {
+    background-color: powderblue;
+    color: purple
+}
+
+#s1 {
+    background: purple;
+    color: plum;
+}
+
+#s1:hover {
+    background: plum;
+    color: purple;
+}
